@@ -1,0 +1,5 @@
+INVOICE
+-----------------
+Customer: John
+Item: Printer Paper
+Amount: £25

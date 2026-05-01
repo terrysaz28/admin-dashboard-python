@@ -1,0 +1,5 @@
+INVOICE
+-----------------
+Customer: Anna
+Item: Office Chair
+Amount: £120

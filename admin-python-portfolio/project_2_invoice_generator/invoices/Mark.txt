@@ -1,5 +1,0 @@
-INVOICE
------------------
-Customer: Mark
-Item: Laptop Stand
-Amount: £45

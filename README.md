@@ -1,7 +1,7 @@
 # Admin Dashboard (Python)
 A Python portfolio featuring three admin-focused projects: Excel reporting, invoice generation, and attendance tracking.
 🚀 Overview
-This repository showcases practical Python applications designed to automate common administrative tasks. Each project focuses on solving real-world problems such as data reporting, document generation, and record management.
+This repository showcases practical Python applications designed to automate tasks such as generating invoices, organising Excel reports, and tracking attendance records. Each project focuses on solving real-world problems such as data reporting, document generation, and record management.
 The goal of this portfolio is to demonstrate structured programming, clean code practices, and the ability to build useful business tools with Python.
 🧰 Technologies Used
 Python
